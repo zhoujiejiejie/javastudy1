@@ -1,0 +1,1213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/day09/Zi.java" line="8" mnemonic="4" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7260e320-0593-4615-ab26-f5edc37cf937" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javastudy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/META-INF/javastudy.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day01/Demo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day01/Demo02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day01/Demo03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day01/Demo04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day01/Demo05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day02/Demo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day02/Demo02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day02/Demo03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day02/Demo04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day02/Demo05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day03/Demo01Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day03/Demo01Student2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day03/Demo02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day03/Demo03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day03/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day04/Demo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day04/Demo02Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day04/Persion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day04/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day05/Demo01Persion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day05/Demo02Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day05/Demo03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day05/Demo04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day05/Demo05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day05/Demo06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day05/Persion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day05/Studeng02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day05/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day06/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day06/Demo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day06/Demo02ArryLIst.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day06/Demo03ArryListRandom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day06/Demo04Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day06/Demo05ArryListReturn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day06/Demo05ArrylistPrint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day06/Demo06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day06/Demo07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day06/Demo08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day06/Presion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day06/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day07/Demo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day07/Demo02Arrys.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day07/Demo03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day07/Demo04Math.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day07/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day07/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day08/Demo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day08/Demo02ExtendsField.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day08/Fu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day08/Teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day08/Worker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day08/Zhuli.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day08/Zi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day09/Demo01Override.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day09/Fu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day09/Zi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day10/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day10/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day10/Demo01main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day11/Hoster.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day11/Member.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day11/main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day11/user.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day12/Demo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day12/Demo02Interface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day12/Demo03Prient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day12/MyInterfaceAbstract.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day12/MyInterfaceAbstractImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day12/MyInterfaceAbstractImpl2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day12/MyInterfaceConst.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day12/MyInterfacePrientA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day12/MyInterfacePrientAImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day12/MyInterfaceStatic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day13/Demo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day13/MyInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day13/MyInterfaceA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day13/MyInterfaceB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day13/MyInterfaceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day14/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day14/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day14/Demo01PolyMulti.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day14/Demo02Filed.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day14/Demo03MutilMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day14/Demo04Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day14/Fu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day14/Zi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day15/Computer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day15/DemoMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day15/Keyboard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day15/Mouse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day15/USB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day16/Body$Heart.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day16/Body.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day16/Demo01Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day16/Demo02Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day16/Demo03Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day16/Demo04Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day16/Demo04Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day16/MyInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day16/MyInterfacsImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day16/MyOuter$1MyInner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day16/MyOuter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day16/Outer$Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day16/Outer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day16/Outer2$1Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day16/Outer2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day17/DemoInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day17/DemoMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day17/Hearo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day17/Skill.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day17/SkillImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day17/Weapon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day18/Demo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day18/Demo02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day18/Demo03Integer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day18/Demo04Collection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day18/Demo05BigFor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day18/Demo06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day18/Demo07Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day18/Demo08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day18/GenericInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day18/GenericInterfaceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day18/GenericMethord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day19/Demo01List.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day19/Demo02LinkList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day19/Demo03HashSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day19/Demo04HaseCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day19/Demo05LinkHashSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day19/Demo06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day19/DouDiZhu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day19/Preson.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day20/Demo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day20/Demo02Map.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day20/Demo03KeySet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day20/Demo04EntrySet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day20/Demo05SavePerson.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day20/Demo06LinkedHashMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day20/Demo07HashTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day20/Demo08DeBug.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day20/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day20/tset.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day21/Demo01Exception.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day21/Demo02Exception.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day21/Demo03Throw.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day21/Demo04Throws.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day21/DouDiZhu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day22Thread/Demo01MainThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day22Thread/Demo01Thread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day22Thread/Demo02Sleep.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day22Thread/Demo03Runable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day22Thread/Demo04Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day22Thread/Demo04Main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day22Thread/Demo04Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day22Thread/MyThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day22Thread/RunableImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day22Thread/persion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day23manyThread/Demo01ticket.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day23manyThread/RunnableImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day23manyThread2/Demo01ticket.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day23manyThread2/RunnableImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day23manyThread3/Demo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy/day23manyThread3/RunnableImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy02/META-INF/javastudy02.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy02/day01/Cook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy02/day01/Demo01$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy02/day01/Demo01$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy02/day01/Demo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy02/day01/Demo02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy02/day01/Demo03$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy02/day01/Demo03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy02/day01/Demo04$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy02/day01/Demo04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy02/day01/RunnableImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy02/day02/BaoZi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy02/day02/BaoZiPu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy02/day02/Chihuo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy02/day02/Demo01Arry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy02/day02/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy02/day02/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy02/day03/Demo01File.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy02/day03/Demo02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy02/day03/Demo03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy02/day03/Demo04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy02/day04/Demo01Recurison.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy02/day04/Demo02Recurison.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy02/day04/Demo03Recurison.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy02/day23manyThread/Demo01ticket.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy02/day23manyThread/RunnableImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy02/day23manyThread2/Demo01ticket.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy02/day23manyThread2/RunnableImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy02/day23manyThread3/Demo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javastudy02/day23manyThread3/RunnableImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day01/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day01/Demo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day01/Demo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day01/Demo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day01/Demo05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day02/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day02/Demo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day02/Demo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day02/Demo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day02/Demo05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/Demo01Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/Demo01Student2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/Demo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/Demo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/Demo02Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/Persion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day05/Demo01Persion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day05/Demo02Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day05/Demo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day05/Demo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day05/Demo05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day05/Demo06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day05/Persion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day05/Studeng02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day05/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/Demo02ArryLIst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/Demo03ArryListRandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/Demo04Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/Demo05ArryListReturn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/Demo05ArrylistPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/Demo06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/Demo07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/Demo08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/Presion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/Demo02Arrys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/Demo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/Demo04Math.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/Demo02ExtendsField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/Fu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/Zhuli.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/Zi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day09/Demo01Override.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day09/Fu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day09/Zi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10/Demo01main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day11/Hoster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day11/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day11/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day11/user.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12/Demo02Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12/Demo03Prient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12/MyInterfaceAbstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12/MyInterfaceAbstractImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12/MyInterfaceAbstractImpl2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12/MyInterfaceConst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12/MyInterfacePrientA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12/MyInterfacePrientAImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12/MyInterfaceStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13/MyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13/MyInterfaceA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13/MyInterfaceB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13/MyInterfaceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14/Demo01PolyMulti.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14/Demo02Filed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14/Demo03MutilMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14/Demo04Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14/Fu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14/Zi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day15/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day15/DemoMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day15/Keyboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day15/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day15/USB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day16/Body.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day16/Demo01Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day16/Demo02Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day16/Demo03Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day16/Demo04Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day16/MyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day16/MyInterfacsImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day16/MyOuter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day16/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day16/Outer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day17/DemoInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day17/DemoMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day17/Hearo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day17/Skill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day17/SkillImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day17/Weapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18/Demo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18/Demo03Integer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18/Demo04Collection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18/Demo05BigFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18/Demo06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18/Demo07Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18/Demo08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18/GenericInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18/GenericInterfaceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18/GenericMethord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day19/Demo01List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day19/Demo02LinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day19/Demo03HashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day19/Demo04HaseCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day19/Demo05LinkHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day19/Demo06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day19/DouDiZhu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day19/Preson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day20/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day20/Demo02Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day20/Demo03KeySet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day20/Demo04EntrySet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day20/Demo05SavePerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day20/Demo06LinkedHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day20/Demo07HashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day20/Demo08DeBug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day20/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day20/tset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day21/Demo01Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day21/Demo02Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day21/Demo03Throw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day21/Demo04Throws.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day21/DouDiZhu.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../javastudy02/src/day01/Demo04.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../javastudy02/src/day02/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../javastudy02/src/day03/Demo01File.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../javastudy02/src/day03/Demo02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="44" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../javastudy02/src/day03/Demo03.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="14" column="55" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../javastudy02/src/day03/Demo04.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="715">
+              <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../javastudy02/src/day04/Demo01Recurison.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../javastudy02/src/day04/Demo02Recurison.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../javastudy02/src/day04/Demo03Recurison.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../javastudy02/src/day02/Demo01Arry.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>2</find>
+      <find>HashCode</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/day22Thread</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/dayday/Demo02Map.java" />
+        <option value="$PROJECT_DIR$/src/dayday/Demo03KeySet.java" />
+        <option value="$PROJECT_DIR$/src/dayday/Demo04EntrySet.java" />
+        <option value="$PROJECT_DIR$/src/dayday/Person.java" />
+        <option value="$PROJECT_DIR$/src/dayday/Demo05SavePerson.java" />
+        <option value="$PROJECT_DIR$/src/day20/Demo05SavePerson.java" />
+        <option value="$PROJECT_DIR$/src/day20/LinkedHashMap.java" />
+        <option value="$PROJECT_DIR$/src/day20/Demo06LinkedHashMap.java" />
+        <option value="$PROJECT_DIR$/src/day20/Demo07HashTable.java" />
+        <option value="$PROJECT_DIR$/src/day20/tset.java" />
+        <option value="$PROJECT_DIR$/src/day20/Demo08DeBug.java" />
+        <option value="$PROJECT_DIR$/src/day21/DouDiZhu.java" />
+        <option value="$PROJECT_DIR$/src/day21/Demo01Exception.java" />
+        <option value="$PROJECT_DIR$/src/day21/Demo02Exception.java" />
+        <option value="$PROJECT_DIR$/src/day21/Demo03Throw.java" />
+        <option value="$PROJECT_DIR$/src/day21/Demo04Throws.java" />
+        <option value="$PROJECT_DIR$/src/day21/Demo05TryCatch.java" />
+        <option value="$PROJECT_DIR$/src/day22Thread/persion.java" />
+        <option value="$PROJECT_DIR$/src/day22Thread/Demo01MainThread.java" />
+        <option value="$PROJECT_DIR$/src/day22Thread/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/day22Thread/Demo01Thread.java" />
+        <option value="$PROJECT_DIR$/src/day22Thread/Demo02Sleep.java" />
+        <option value="$PROJECT_DIR$/src/day22Thread/RunableImpl.java" />
+        <option value="$PROJECT_DIR$/src/day22Thread/Demo03Runable.java" />
+        <option value="$PROJECT_DIR$/src/day22Thread/Demo04Main.java" />
+        <option value="$PROJECT_DIR$/src/day23manyThread/Demo01ticket.java" />
+        <option value="$PROJECT_DIR$/src/day23manyThread/RunnableImpl.java" />
+        <option value="$PROJECT_DIR$/src/day23manyThread2/Demo01ticket.java" />
+        <option value="$PROJECT_DIR$/src/day23manyThread2/RunnableImpl.java" />
+        <option value="$PROJECT_DIR$/src/day23manyThread3/Demo01.java" />
+        <option value="$PROJECT_DIR$/src/day23manyThread3/RunnableImpl.java" />
+        <option value="$PROJECT_DIR$/../javastudy02/src/day01/Demo01.java" />
+        <option value="$PROJECT_DIR$/../javastudy02/src/day02/BaoZi.java" />
+        <option value="$PROJECT_DIR$/../javastudy02/src/day02/BaoZiPu.java" />
+        <option value="$PROJECT_DIR$/../javastudy02/src/day02/Chihuo.java" />
+        <option value="$PROJECT_DIR$/../javastudy02/src/day02/Test.java" />
+        <option value="$PROJECT_DIR$/../javastudy02/src/day01/RunnableImpl.java" />
+        <option value="$PROJECT_DIR$/../javastudy02/src/day01/Demo02.java" />
+        <option value="$PROJECT_DIR$/../javastudy02/src/day01/Demo03.java" />
+        <option value="$PROJECT_DIR$/../javastudy02/src/day01/cook.java" />
+        <option value="$PROJECT_DIR$/../javastudy02/src/day01/Demo04.java" />
+        <option value="$PROJECT_DIR$/../javastudy02/src/day03/Person.java" />
+        <option value="$PROJECT_DIR$/../javastudy02/src/day03/Demo01Arry.java" />
+        <option value="$PROJECT_DIR$/../javastudy02/src/day02/Demo01Arry.java" />
+        <option value="$PROJECT_DIR$/../javastudy02/src/day03/Demo01File.java" />
+        <option value="$PROJECT_DIR$/../javastudy02/src/day03/Demo02.java" />
+        <option value="$PROJECT_DIR$/../javastudy02/src/day03/Demo03.java" />
+        <option value="$PROJECT_DIR$/../javastudy02/src/day03/Demo04.java" />
+        <option value="$PROJECT_DIR$/../javastudy02/src/day04/Demo01Recurison.java" />
+        <option value="$PROJECT_DIR$/../javastudy02/src/day04/Demo02Recurison.java" />
+        <option value="$PROJECT_DIR$/../javastudy02/src/day04/Demo03Recurison.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="238" />
+    <option name="y" value="21" />
+    <option name="width" value="1400" />
+    <option name="height" value="990" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="javastudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javastudy02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javastudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javastudy02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="day15" />
+      <recent name="day13" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/day23manyThread2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Demo03Recurison">
+    <configuration name="Demo01Recurison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04.Demo01Recurison" />
+      <module name="javastudy02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo02Recurison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04.Demo02Recurison" />
+      <module name="javastudy02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo03 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03.Demo03" />
+      <module name="javastudy02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo03Recurison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04.Demo03Recurison" />
+      <module name="javastudy02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo04 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03.Demo04" />
+      <module name="javastudy02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo03Recurison" />
+        <item itemvalue="Application.Demo02Recurison" />
+        <item itemvalue="Application.Demo01Recurison" />
+        <item itemvalue="Application.Demo04 (1)" />
+        <item itemvalue="Application.Demo03 (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7260e320-0593-4615-ab26-f5edc37cf937" name="Default Changelist" comment="" />
+      <created>1573224100130</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573224100130</updated>
+      <workItem from="1573224101504" duration="6257000" />
+      <workItem from="1573269686353" duration="5008000" />
+      <workItem from="1573284403746" duration="2250000" />
+      <workItem from="1573364128887" duration="277000" />
+      <workItem from="1573482854218" duration="5566000" />
+      <workItem from="1573492556083" duration="1652000" />
+      <workItem from="1573651189021" duration="7325000" />
+      <workItem from="1573666300512" duration="2271000" />
+      <workItem from="1573720844689" duration="7027000" />
+      <workItem from="1573750281029" duration="1899000" />
+      <workItem from="1573796628020" duration="7190000" />
+      <workItem from="1573834807822" duration="2218000" />
+      <workItem from="1573913436675" duration="4012000" />
+      <workItem from="1573925031177" duration="1738000" />
+      <workItem from="1573978406082" duration="6170000" />
+      <workItem from="1574076709899" duration="615000" />
+      <workItem from="1574080828264" duration="1877000" />
+      <workItem from="1574096071475" duration="1588000" />
+      <workItem from="1574172142470" duration="9000" />
+      <workItem from="1574321859809" duration="7259000" />
+      <workItem from="1574426411871" duration="4764000" />
+      <workItem from="1574441190698" duration="2753000" />
+      <workItem from="1574496514831" duration="400000" />
+      <workItem from="1574691653064" duration="5243000" />
+      <workItem from="1574730519366" duration="15000" />
+      <workItem from="1574787548801" duration="1545000" />
+      <workItem from="1574841419774" duration="4355000" />
+      <workItem from="1574925815144" duration="2075000" />
+      <workItem from="1574997494630" duration="606000" />
+      <workItem from="1575015769279" duration="29000" />
+      <workItem from="1575015854673" duration="261000" />
+      <workItem from="1575016133787" duration="2507000" />
+      <workItem from="1575391678010" duration="2527000" />
+      <workItem from="1575442901330" duration="4177000" />
+      <workItem from="1575471675442" duration="17000" />
+      <workItem from="1575473832087" duration="850000" />
+      <workItem from="1575529009269" duration="1534000" />
+      <workItem from="1575561117699" duration="1712000" />
+      <workItem from="1575564554474" duration="13000" />
+      <workItem from="1575615734434" duration="2535000" />
+      <workItem from="1575644120402" duration="5921000" />
+      <workItem from="1575735627857" duration="421000" />
+      <workItem from="1575994718637" duration="3283000" />
+      <workItem from="1576137946193" duration="1919000" />
+      <workItem from="1576248874071" duration="8231000" />
+      <workItem from="1576334037195" duration="8593000" />
+      <workItem from="1576843134110" duration="518000" />
+      <workItem from="1577647997960" duration="4226000" />
+      <workItem from="1577722635759" duration="4756000" />
+      <workItem from="1577905782262" duration="240000" />
+      <workItem from="1578231682047" duration="1576000" />
+      <workItem from="1578239585312" duration="3237000" />
+      <workItem from="1578298061518" duration="5644000" />
+      <workItem from="1578378417922" duration="1985000" />
+      <workItem from="1578404415661" duration="799000" />
+      <workItem from="1578472547713" duration="7135000" />
+      <workItem from="1578500059601" duration="180000" />
+      <workItem from="1578525404647" duration="4805000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="173595000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1030" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25985092" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.47488585" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39954337" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32990867" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day20/Demo08DeBug.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day20/Demo08DeBug.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day20/Demo08DeBug.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/day20/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day20/Demo05SavePerson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="35" column="48" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day20/Demo06LinkedHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="7" selection-start-line="7" selection-end-line="13" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day21/puke.java" />
+    <entry file="file://$PROJECT_DIR$/src/day20/Demo07HashTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day20/tset.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day20/Demo08DeBug.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day21/DouDiZhu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day21/Demo01Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day21/Demo02Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day21/Demo05TryCatch.java" />
+    <entry file="file://$PROJECT_DIR$/src/day21/Demo04Throws.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javastudy02/src/day22Thread/RunableImpl.java" />
+    <entry file="file://$PROJECT_DIR$/../javastudy02/src/day22Thread/persion.java" />
+    <entry file="file://$PROJECT_DIR$/src/day21/Demo03Throw.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day23manyThread.java" />
+    <entry file="file://$PROJECT_DIR$/../javastudy02/src/day22Thread/Demo01Thread.java" />
+    <entry file="file://$PROJECT_DIR$/src/day23namyThread3.java" />
+    <entry file="file://$PROJECT_DIR$/../javastudy02/src/day22Thread/Demo02Sleep.java" />
+    <entry file="file://$PROJECT_DIR$/../javastudy02/src/day22Thread/Demo03Runable.java" />
+    <entry file="file://$PROJECT_DIR$/../javastudy02/src/day22Thread/Demo04Main.java" />
+    <entry file="file://$PROJECT_DIR$/../javastudy02/src/day22Thread/MyThread.java" />
+    <entry file="file://$PROJECT_DIR$/../javastudy02/src/day22Thread/Demo01MainThread.java" />
+    <entry file="file://$PROJECT_DIR$/../javastudy02/src/day23manyThread/RunnableImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javastudy02/src/day23manyThread2/RunnableImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="7" selection-start-line="6" selection-start-column="1" selection-end-line="29" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javastudy02/src/day23manyThread3/Demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javastudy02/src/day02/BaoZi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javastudy02/src/day02/BaoZiPu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="7" column="5" selection-start-line="5" selection-start-column="4" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javastudy02/src/day02/Chihuo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="28" column="79" selection-start-line="28" selection-start-column="79" selection-end-line="28" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javastudy02/src/day02/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javastudy02/src/day01/RunnableImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#100#101#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javastudy02/src/day23manyThread3/RunnableImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javastudy02/src/day23manyThread2/Demo01ticket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javastudy02/src/day23manyThread/Demo01ticket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day19/DouDiZhu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javastudy02/src/day01/Demo02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/work/JDK8u/jdk1.8.0_211/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javastudy02/src/day01/Demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javastudy02/src/day01/Demo03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javastudy02/src/day01/Cook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javastudy02/src/day01/Demo04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javastudy02/src/day02/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javastudy02/src/day03/Demo01File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javastudy02/src/day03/Demo02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="44" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javastudy02/src/day03/Demo03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="14" column="55" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javastudy02/src/day02/Demo01Arry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javastudy02/src/Day04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javastudy02/src/day03/Demo04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="715">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javastudy02/src/day04/Demo01Recurison.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javastudy02/src/day04/Demo02Recurison.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../javastudy02/src/day04/Demo03Recurison.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>javastudy</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
