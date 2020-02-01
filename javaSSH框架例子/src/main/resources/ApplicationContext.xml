@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<!--
+bean:描述当前的对象需要由SPRING来管理
+class:被和管理的类的全名
+-->
+
+    <bean id="service" class="hello.MessageService">
+        <property name="service" ref="print"></property>     //添加关联与下面的service对象
+    </bean>
+
+
+    <bean id="print" class="hello.MessagePrient"></bean>
+</beans>
